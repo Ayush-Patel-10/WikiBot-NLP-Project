@@ -1,0 +1,3 @@
+# WikiBot-NLP-Project
+
+WikiBot is a conversational AI tool that utilizes Wikipedia's vast knowledge to provide users with relevant information quickly. The bot uses web scraping and natural language processing techniques to extract information and generate summaries. The project analyzed different summarization methods and found that LDA summarization performed the best for structured text. Additionally, WikiBot utilizes unsupervised machine learning algorithms to provide recommendations to users. The project concludes that WikiBot has immense potential to improve how we access and interact with information, and further development could lead to exciting advancements in conversational AI.
